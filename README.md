@@ -18,6 +18,8 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 
 ## Dataset used
 - <a href="https://docs.google.com/spreadsheets/d/15oStem0HXRtxLInlfEVPYqr0CdoSAkFp/edit?usp=drive_link&ouid=110390598781233091957&rtpof=true&sd=true">Dataset</a>
+## Dataset dictionary
+- <a href="https://docs.google.com/spreadsheets/d/1hhkFrggLZPMo_oro0Ub2j5clrm3oLQ7x/edit?usp=drive_link&ouid=110390598781233091957&rtpof=true&sd=true">Dictionary</a>
 
 ## Questions (KPIs)
 Which car model offers the highest number of preferred features?
